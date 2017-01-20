@@ -183,7 +183,7 @@ open class SLPagingViewSwift: UIViewController, UIScrollViewDelegate, UIGestureR
     open override func viewDidLoad() {
         super.viewDidLoad()
         
-        perform(#selector(handleLogout), with: nil, afterDelay: 0)
+        
 
         /*
         
