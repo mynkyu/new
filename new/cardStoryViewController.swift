@@ -85,7 +85,7 @@ class cardStoryViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.white
         MaleCards = [#imageLiteral(resourceName: "photo1"),#imageLiteral(resourceName: "photo2"),#imageLiteral(resourceName: "photo3"), #imageLiteral(resourceName: "photo4"), #imageLiteral(resourceName: "photo5"), #imageLiteral(resourceName: "photo6")]
-        MaleStorys = ["안녕하세요, 서울대학교 경영학과 10학번에 재학 중인 김지목이라고 합니다.", "저는 음악을 좋아하고 특히 힙합을 좋아해요. 듣는 것도 좋아하고 간간이 공연도 하며 살고 있어요.", "디자인쪽에도 관심이 많아서 디자인 부전공도 얼마 전에 다 마쳤습니다.", "시 읽는 것도 좋아해서 동아리도 하고 그랬었는데 요새는 바빠서 잘 못 읽고 있어요.", "요새는 마음 맞는 친구들과 앱을 개발 중에 있는데 힘들고 바쁘지만 즐겁고 감사한 과정이라고 생각하고 있어요.", "마음이 통하고 대화가 통하는 좋은 분을 만나고 싶습니다! 감사합니다!"]
+        MaleStorys = ["안녕하세요, 서울대학교 경영학과 100학번에 재학 중인 김지목이라고 합니다.", "저는 음악을 좋아하고 특히 힙합을 좋아해요. 듣는 것도 좋아하고 간간이 공연도 하며 살고 있어요.", "디자인쪽에도 관심이 많아서 디자인 부전공도 얼마 전에 다 마쳤습니다.", "시 읽는 것도 좋아해서 동아리도 하고 그랬었는데 요새는 바빠서 잘 못 읽고 있어요.", "요새는 마음 맞는 친구들과 앱을 개발 중에 있는데 힘들고 바쁘지만 즐겁고 감사한 과정이라고 생각하고 있어요.", "마음이 통하고 대화가 통하는 좋은 분을 만나고 싶습니다! 감사합니다!"]
         
         
         
